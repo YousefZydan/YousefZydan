@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="72" viewBox="0 0 900 72" role="img" aria-label="Tech stack marquee">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#0d1117" stop-opacity="0"/>
+      <stop offset="8%" stop-color="#0d1117" stop-opacity="1"/>
+      <stop offset="92%" stop-color="#0d1117" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="72" fill="#0d1117"/>
+
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-1020 0" dur="22s" repeatCount="indefinite"/>
+
+    <!-- first copy -->
+    <g transform="translate(20 16)">
+      <rect rx="10" width="78" height="40" fill="#239120"/>
+      <text x="39" y="26" text-anchor="middle" fill="#fff" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" font-weight="700">C#</text>
+    </g>
+    <g transform="translate(112 16)">
+      <rect rx="10" width="140" height="40" fill="#512BD4"/>
+      <text x="70" y="26" text-anchor="middle" fill="#fff" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" font-weight="700">ASP.NET Core</text>
+    </g>
+    <g transform="translate(266 16)">
+      <rect rx="10" width="118" height="40" fill="#CC2927"/>
+      <text x="59" y="26" text-anchor="middle" fill="#fff" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" font-weight="700">SQL Server</text>
+    </g>
+    <g transform="translate(398 16)">
+      <rect rx="10" width="92" height="40" fill="#512BD4"/>
+      <text x="46" y="26" text-anchor="middle" fill="#fff" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" font-weight="700">EF Core</text>
+    </g>
+    <g transform="translate(504 16)">
+      <rect rx="10" width="100" height="40" fill="#0366d6"/>
+      <text x="50" y="26" text-anchor="middle" fill="#fff" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" font-weight="700">REST APIs</text>
+    </g>
+    <g transform="translate(618 16)">
+      <rect rx="10" width="64" height="40" fill="#111111"/>
+      <text x="32" y="26" text-anchor="middle" fill="#fff" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" font-weight="700">JWT</text>
+    </g>
+    <g transform="translate(696 16)">
+      <rect rx="10" width="88" height="40" fill="#2496ED"/>
+      <text x="44" y="26" text-anchor="middle" fill="#fff" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" font-weight="700">Docker</text>
+    </g>
+    <g transform="translate(798 16)">
+      <rect rx="10" width="70" height="40" fill="#F05032"/>
+      <text x="35" y="26" text-anchor="middle" fill="#fff" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" font-weight="700">Git</text>
+    </g>
+    <g transform="translate(882 16)">
+      <rect rx="10" width="80" height="40" fill="#FCC624"/>
+      <text x="40" y="26" text-anchor="middle" fill="#111" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" font-weight="700">Linux</text>
+    </g>
+    <g transform="translate(976 16)">
+      <rect rx="10" width="96" height="40" fill="#85EA2D"/>
+      <text x="48" y="26" text-anchor="middle" fill="#111" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" font-weight="700">Swagger</text>
+    </g>
+
+    <!-- second copy for seamless loop -->
+    <g transform="translate(1092 16)">
+      <rect rx="10" width="78" height="40" fill="#239120"/>
+      <text x="39" y="26" text-anchor="middle" fill="#fff" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" font-weight="700">C#</text>
+    </g>
+    <g transform="translate(1184 16)">
+      <rect rx="10" width="140" height="40" fill="#512BD4"/>
+      <text x="70" y="26" text-anchor="middle" fill="#fff" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" font-weight="700">ASP.NET Core</text>
+    </g>
+    <g transform="translate(1338 16)">
+      <rect rx="10" width="118" height="40" fill="#CC2927"/>
+      <text x="59" y="26" text-anchor="middle" fill="#fff" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" font-weight="700">SQL Server</text>
+    </g>
+    <g transform="translate(1470 16)">
+      <rect rx="10" width="92" height="40" fill="#512BD4"/>
+      <text x="46" y="26" text-anchor="middle" fill="#fff" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" font-weight="700">EF Core</text>
+    </g>
+    <g transform="translate(1576 16)">
+      <rect rx="10" width="100" height="40" fill="#0366d6"/>
+      <text x="50" y="26" text-anchor="middle" fill="#fff" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" font-weight="700">REST APIs</text>
+    </g>
+    <g transform="translate(1690 16)">
+      <rect rx="10" width="64" height="40" fill="#111111"/>
+      <text x="32" y="26" text-anchor="middle" fill="#fff" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" font-weight="700">JWT</text>
+    </g>
+    <g transform="translate(1768 16)">
+      <rect rx="10" width="88" height="40" fill="#2496ED"/>
+      <text x="44" y="26" text-anchor="middle" fill="#fff" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" font-weight="700">Docker</text>
+    </g>
+    <g transform="translate(1870 16)">
+      <rect rx="10" width="70" height="40" fill="#F05032"/>
+      <text x="35" y="26" text-anchor="middle" fill="#fff" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" font-weight="700">Git</text>
+    </g>
+    <g transform="translate(1954 16)">
+      <rect rx="10" width="80" height="40" fill="#FCC624"/>
+      <text x="40" y="26" text-anchor="middle" fill="#111" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" font-weight="700">Linux</text>
+    </g>
+    <g transform="translate(2048 16)">
+      <rect rx="10" width="96" height="40" fill="#85EA2D"/>
+      <text x="48" y="26" text-anchor="middle" fill="#111" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" font-weight="700">Swagger</text>
+    </g>
+  </g>
+
+  <rect width="900" height="72" fill="url(#bg)"/>
+</svg>
