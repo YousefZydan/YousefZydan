@@ -117,14 +117,14 @@ Enterprise ERP platform for NGOs covering backend APIs, licensing, authenticatio
 
 - **Professional Backend .NET Training** — EBLA Computer Consultancy, Kuwait  
   ASP.NET Core, SQL Server, REST APIs, and enterprise software development  
-  [View Certificate](https://drive.google.com/file/d/1famTkUPKs0Lc3b4N8HIN4SzCtXnE_6AM/view?usp=sharing)
+  [View Certificate](https://drive.google.com/file/d/1ZRw21yphXMg_cBd0n3YznYg3UjkyBvvj/view?usp=drive_link)
 
 - **Ministry of Communications and Information Technology Certificate**  
   [View Certificate](https://drive.google.com/file/d/1PCE6D6DnMiY6OpAjt2nIguP0rRSRksET/view?usp=sharing)
 
 - **Million AI Experts Initiative** — Dubai, UAE  
   Applied AI program on practical AI tools and professional prompt engineering  
-  [View Certificate](https://drive.google.com/file/d/1ZRw21yphXMg_cBd0n3YznYg3UjkyBvvj/view?usp=drive_link)
+  [View Certificate](https://drive.google.com/file/d/1famTkUPKs0Lc3b4N8HIN4SzCtXnE_6AM/view?usp=sharing)
 
 ---
 
