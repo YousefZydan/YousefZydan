@@ -2,9 +2,6 @@
 
 <div align="center">
 
-  <a href="https://github.com/YousefZydan">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
   <a href="mailto:redmiredmiii592@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
@@ -168,12 +165,6 @@ Enterprise ERP platform for NGOs covering backend APIs, licensing, authenticatio
 
 <a href="mailto:redmiredmiii592@gmail.com">
   <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-<a href="https://github.com/YousefZydan">
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://github.com/YousefZydan?tab=repositories">
-  <img src="https://img.shields.io/badge/REPOSITORIES-512BD4?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
 </a>
 
 </div>
