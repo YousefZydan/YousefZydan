@@ -2,9 +2,7 @@
 
 <div align="center">
 
-  <a href="mailto:redmiredmiii592@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+  [![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=redmiredmiii592@gmail.com)
 
   <br />
 
@@ -148,23 +146,10 @@ Enterprise ERP platform for NGOs covering backend APIs, licensing, authenticatio
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YousefZydan&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YousefZydan&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=YousefZydan&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
-</div>
-
----
-
 <div align="center">
 
 **Open to Backend .NET roles** with multinational and Gulf teams, including remote opportunities.
 
-<a href="mailto:redmiredmiii592@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
+[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=redmiredmiii592@gmail.com)
 
 </div>
